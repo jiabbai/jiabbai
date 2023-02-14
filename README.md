@@ -1,7 +1,7 @@
 ### Hi, I'm JiaJia Bai👋
 
 A third year student from Computer Engineering, KMUTT
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, Tableau
 - 📫 How to reach me: 
 -             gmail: baijiajia.work@gmail.com
 -             phone: 0959038233
